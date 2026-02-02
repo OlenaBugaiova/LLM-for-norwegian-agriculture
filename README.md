@@ -3,4 +3,4 @@ Large Language Models succeeded across domains while are still underexplored in 
 
  Previously, we collected [text data](https://github.com/OlenaBugaiova/collecting-data-about-norwegian-agriculture) about Norwegian agriculture and described motivation for the project, methods and the dataset in a [research paper](https://www.sciencedirect.com/science/article/pii/S2352340925000587). As a part of this project, I generated the first version of a [synthetic evaluation dataset](https://huggingface.co/datasets/norjordAI/nor_agriculture_bench) consisting of question/answer pairs to guide in the implementation of RAG. The dataset needs further validation and might be updated. 
 
-Potential challenges and use cases of using LLMs in the agricultural sector - [Embracing Generative AI in Agriculture](https://graindatasolutions.com/generative-ai-agriculture-farming-efficiency/).
+Potential challenges and use cases of applying LLMs to the agricultural sector - [Embracing Generative AI in Agriculture](https://graindatasolutions.com/generative-ai-agriculture-farming-efficiency/).
